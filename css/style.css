@@ -1,0 +1,84 @@
+
+
+
+.top_img {
+      height: 500px;
+    background-position: center;
+    background-image: url(../assets/gallery/top\ img.jpg);
+    background-repeat: no-repeat;
+}
+
+.SECTION-3 nav{
+    position: relative;
+    margin-top: -20px;
+
+
+}
+
+.SECTION-3 a{
+    font-weight: bold;
+    color: black;
+    
+
+}
+
+.SECTION-3 ul{
+    margin: auto;
+    
+    
+}
+   
+
+
+.SECTION-4{
+    background-image: url(../assets/gallery/uncle\ bg.jpg);
+}
+
+
+.new_img{
+    background-image: url(../assets/gallery/map.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+
+.event_img{
+    background-image: url(../assets/gallery/news\ 3.jpg);
+    height: 400px;
+    background-size: cover;
+    
+    
+
+}
+
+.section_5 .card{
+    position: relative;
+    margin-bottom: -120px;
+}
+
+
+.footer_img{
+    background-image: url(../assets/gallery/footer.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+
+
+@media only screen and (max-width: 767px) {
+
+    .top_img{
+        height:125px;
+        background-position: center;
+        background-size: 100%;
+        background-repeat: no-repeat;
+
+    }
+
+}
+  
+
+
+
+
